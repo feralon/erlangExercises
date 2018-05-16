@@ -1,0 +1,2 @@
+{port, 2233}.
+{service, fileserver, password, "qwerty", mfa, yafs_server, run, [hola]}.
